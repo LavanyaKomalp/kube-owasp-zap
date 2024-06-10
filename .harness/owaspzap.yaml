@@ -1,0 +1,5 @@
+service:
+  name: owaspzap
+  identifier: owaspzap
+  orgIdentifier: default
+  projectIdentifier: default_project
